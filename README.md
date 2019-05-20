@@ -1,2 +1,2 @@
 # Wipro-PJP-Training
-This repository contains the all program of the pjp program of Wipro. 
+This repository contains all program of TechModule-1  pjp program 2019 of Wipro. 
